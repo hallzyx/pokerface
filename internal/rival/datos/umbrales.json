@@ -1,0 +1,13 @@
+{
+  "manos_estacion": 8,
+  "vpip_estacion": 0.38,
+  "af_estacion": 0.9,
+  "manos_fold": 4,
+  "fold_grande": 0.55,
+  "fold_grande_paga": 0.35,
+  "ciegas_apuesta_grande": 4,
+  "muestras_tresbet": 5,
+  "fold_tresbet_bajo": 0.15,
+  "manos_rango_tight": 12,
+  "vpip_tight": 0.18
+}

@@ -1,0 +1,56 @@
+{
+  "8": {
+    "empujar": {
+      "UTG": ["66+", "ATs+", "AJo+", "KQs"],
+      "MP": ["55+", "A9s+", "ATo+", "KQs", "KQo"],
+      "CO": ["44+", "A8s+", "ATo+", "KJs+", "KQo"],
+      "BTN": ["22+", "A2s+", "A8o+", "KTs+", "KJo+", "QJs"],
+      "SB": ["22+", "A2s+", "A5o+", "K9s+", "KTo+", "QTs+", "JTs"],
+      "BB": []
+    },
+    "pagar": {
+      "BB": ["77+", "ATs+", "AJo+", "KQs"],
+      "SB": ["88+", "AJs+", "AQo+", "KQs"],
+      "BTN": ["88+", "AJs+", "AQo+", "KQs"],
+      "CO": ["99+", "AQs+", "AKo"],
+      "MP": ["99+", "AQs+", "AKo"],
+      "UTG": ["TT+", "AKs", "AKo"]
+    }
+  },
+  "10": {
+    "empujar": {
+      "UTG": ["77+", "AJs+", "AQo+", "KQs"],
+      "MP": ["66+", "ATs+", "AJo+", "KQs"],
+      "CO": ["55+", "A9s+", "ATo+", "KQs", "KJs"],
+      "BTN": ["44+", "A5s+", "A9o+", "KTs+", "KJo+", "QJs"],
+      "SB": ["33+", "A4s+", "A8o+", "K9s+", "KTo+", "QJs"],
+      "BB": []
+    },
+    "pagar": {
+      "BB": ["88+", "AJs+", "AQo+", "KQs"],
+      "SB": ["99+", "AQs+", "AKo"],
+      "BTN": ["99+", "AQs+", "AKo"],
+      "CO": ["TT+", "AQs+", "AKo"],
+      "MP": ["TT+", "AQs+", "AKo"],
+      "UTG": ["JJ+", "AKs", "AKo"]
+    }
+  },
+  "15": {
+    "empujar": {
+      "UTG": ["99+", "AQs+", "AKo"],
+      "MP": ["88+", "AJs+", "AQo+", "KQs"],
+      "CO": ["77+", "ATs+", "AJo+", "KQs"],
+      "BTN": ["55+", "A9s+", "ATo+", "KJs+", "KQo"],
+      "SB": ["44+", "A8s+", "ATo+", "KTs+", "KQo"],
+      "BB": []
+    },
+    "pagar": {
+      "BB": ["TT+", "AQs+", "AKo"],
+      "SB": ["JJ+", "AKs", "AKo"],
+      "BTN": ["JJ+", "AKs", "AKo"],
+      "CO": ["JJ+", "AKs", "AKo"],
+      "MP": ["QQ+", "AKs", "AKo"],
+      "UTG": ["QQ+", "AKs", "AKo"]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+bin/
+resultados/
+build/
+*.exe
+*.test
+__pycache__/
+*.pyc

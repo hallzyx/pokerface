@@ -1,0 +1,13 @@
+{
+  "seca": 0.33,
+  "emparejada": 0.33,
+  "mojada": 0.67,
+  "monotono": 0.67,
+  "valor_estacion": 1.0,
+  "valor_chico": 0.33,
+  "farol_grande": 0.67,
+  "farol_sin_muestra": 0.28,
+  "farol_con_muestra": 0.22,
+  "farol_sobre_fold": 0.75,
+  "farol_sonda": 0.12
+}

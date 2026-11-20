@@ -1,0 +1,6 @@
+{
+  "BB_pagar": ["22+", "A2s+", "A9o+", "K8s+", "KTo+", "Q9s+", "QTo+", "J8s+", "JTo", "T8s+", "97s+", "86s+", "75s+", "65s", "54s"],
+  "BB_tresbet": ["TT+", "AQs+", "AKo", "AJs"],
+  "SB_pagar": ["22+", "A8s+", "ATo+", "KTs+", "KJo+", "QTs+", "JTs", "T9s", "98s"],
+  "SB_tresbet": ["TT+", "AQs+", "AKo", "AJs", "KQs"]
+}

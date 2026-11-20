@@ -1,0 +1,13 @@
+{
+  "UTG": ["QQ+", "AKs", "AKo"],
+  "MP": ["QQ+", "AKs", "AKo", "AQs"],
+  "CO": ["JJ+", "AQs+", "AKo"],
+  "BTN": ["TT+", "AQs+", "AKo", "AJs"],
+  "SB": ["TT+", "AQs+", "AKo", "KQs"],
+  "BB": ["TT+", "AQs+", "AKo", "AJs"],
+  "valor": ["QQ+", "AKs", "AKo"],
+  "cuatrobet": ["QQ+", "AKs", "AKo"],
+  "pagar_tresbet": ["JJ", "TT", "AQs", "AQo", "AJs", "KQs"],
+  "continuar_cuatrobet": ["KK+", "AKs"],
+  "pagar_subida": ["22+", "A9s+", "ATo+", "KTs+", "KJo+", "QTs+", "JTs", "T9s", "98s", "87s", "76s"]
+}

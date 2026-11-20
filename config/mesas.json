@@ -1,0 +1,16 @@
+{
+  "condiciones": {
+    "rondas": 50,
+    "stack": 10000,
+    "ciega_chica": 50,
+    "ciega_grande": 100,
+    "timeout_ms": 5000,
+    "tope_segundos": 360,
+    "jugadores": 6,
+    "min_jugadores": 6
+  },
+  "mesas": [
+    ["artesanal", "aleatorio", "conservador", "novato", "base", "estadistico"],
+    ["artesanal", "bandido", "espia", "darwin", "conservador", "base"]
+  ]
+}

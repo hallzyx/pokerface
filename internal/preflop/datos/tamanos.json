@@ -1,0 +1,8 @@
+{
+  "version": "fase1-6max-sin-ante-v1",
+  "abrir_ciegas": 2.5,
+  "abrir_explotado_ciegas": 5.0,
+  "tresbet_por": 3.0,
+  "cuatrobet_por": 2.4,
+  "stack_push_bb": 15
+}
